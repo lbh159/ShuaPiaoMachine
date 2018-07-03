@@ -1,0 +1,9 @@
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\bin\Debug\ShuaPiaoMachine.exe.config
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\bin\Debug\ShuaPiaoMachine.exe
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\bin\Debug\ShuaPiaoMachine.pdb
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\obj\Debug\ShuaPiaoMachine.Form1.resources
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\obj\Debug\ShuaPiaoMachine.Properties.Resources.resources
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\obj\Debug\ShuaPiaoMachine.csproj.GenerateResource.Cache
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\obj\Debug\ShuaPiaoMachine.exe
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\obj\Debug\ShuaPiaoMachine.pdb
+E:\workspace_VS\Test\ShuaPiaoMachine\ShuaPiaoMachine\bin\Debug\Newtonsoft.Json.dll
